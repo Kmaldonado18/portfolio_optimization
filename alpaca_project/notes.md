@@ -22,7 +22,7 @@ GoogleFinance/Alpaca/Quandl - S&P 500 sector etfs, S&P 500 growth and value indi
 ----
 
     SCRUM 4/26/2019
-    
+
 -What have you worked on?
 What things do you plan on working on today?
 What is blocking you?
@@ -37,7 +37,7 @@ What is blocking you?
 
 found s&p 500 ratios on quandl
 
-unsure if we can pull sector data for free on quandl
+unsure if we can pull sector data for free on quandl, so I pulled 10 years of historical data online and exported to csv...
 
 
 ----
