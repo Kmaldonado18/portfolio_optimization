@@ -39,5 +39,6 @@ found s&p 500 ratios on quandl
 
 unsure if we can pull sector data for free on quandl, so I pulled 10 years of historical data online and exported to csv...
 
+https://us.spindices.com/indices/equity/sp-500-consumer-discretionary-sector
 
 ----
