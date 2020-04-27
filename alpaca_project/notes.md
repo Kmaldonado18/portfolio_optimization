@@ -21,13 +21,11 @@ GoogleFinance/Alpaca/Quandl - S&P 500 sector etfs, S&P 500 growth and value indi
 
 ----
 
-    SCRUM 4/26/2019
+    SCRUM 4/26/2020
 
--What have you worked on?
-What things do you plan on working on today?
-What is blocking you?
+**-What have you worked on? What things do you plan on working on today? What is blocking you?**
 
-- worked on downloading data on quandl (unsure if sector data is free, downloaded csv's), researching how  to approach optimizing a portfolio (rewatched monte carlo lecture, attempted using efficient frontier), 
+- worked on retrieving data on quandl (unsure if sector data is free, researching how  to approach optimizing a portfolio, rewatched monte carlo lecture 
 
 - Plan to clean the data today
 
@@ -42,3 +40,19 @@ unsure if we can pull sector data for free on quandl, so I pulled 10 years of hi
 https://us.spindices.com/indices/equity/sp-500-consumer-discretionary-sector
 
 ----
+
+    SCRUM 4/27/2020
+
+**-What have you worked on? What things do you plan on working on today? What is blocking you?**
+
+ - downloaded data files for my sectors, rewatched monte carlo and efficient frontier lectures
+ - plan to clean data today, or work with pulling data from Quandl, depending on availability
+ - blocked from cleaning to get team on same page about time-frame consistencies and source of data retrieval
+
+ *Additional Notes:*
+
+found s&p 500 ratios on quandl
+
+unsure if we can pull sector data for free on quandl, so I pulled 10 years of historical data online and exported to csv...
+
+https://us.spindices.com/indices/equity/sp-500-consumer-discretionary-sector
