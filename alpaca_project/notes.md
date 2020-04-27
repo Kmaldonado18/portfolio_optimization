@@ -47,7 +47,7 @@ https://us.spindices.com/indices/equity/sp-500-consumer-discretionary-sector
 
  - downloaded data files for my sectors, rewatched monte carlo and efficient frontier lectures
  - plan to clean data today, or work with pulling data from Quandl, depending on availability
- - blocked from cleaning to get team on same page about time-frame consistencies and source of data retrieval
+ - blocked from cleaning to get team on same page about time-frame consistencies and source of data retrieval, and my first xls import to pandas is wonky...
 
  *Additional Notes:*
 
